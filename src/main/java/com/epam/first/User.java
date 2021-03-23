@@ -1,4 +1,4 @@
-package first;
+package com.epam.first;
 
 public class User {
     private int id;
